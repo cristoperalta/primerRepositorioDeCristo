@@ -2,7 +2,7 @@
 public class Alumno {
 
 	/**
-	 * @param args Cristo
+	 * @param args Cristo David Peralta Hernández
 	 */
 	String nombre, nombre2, apellido;
 	
