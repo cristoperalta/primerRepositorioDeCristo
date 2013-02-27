@@ -26,8 +26,8 @@ public class Alumno {
 		return nombre2;	
 	}
 	
-	public void getTangaSexy(String a) {
-		// Ese criiiisto mirando tangas
+	public void getCosasBonitas(String a) {
+		// Ese criiiisto con unicornios
 		apellido = a;	
 	}
 
