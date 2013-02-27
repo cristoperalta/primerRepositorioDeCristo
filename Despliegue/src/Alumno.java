@@ -2,7 +2,7 @@
 public class Alumno {
 
 	/**
-	 * @param args
+	 * @param args Cristo
 	 */
 	String nombre, nombre2, apellido;
 	
