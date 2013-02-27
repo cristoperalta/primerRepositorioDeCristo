@@ -26,8 +26,8 @@ public class Alumno {
 		return nombre2;	
 	}
 	
-	public void getApellido(String a) {
-		// Ese criiiisto TODO Auto-generated method stub
+	public void getTangaSexy(String a) {
+		// Ese criiiisto mirando tangas
 		apellido = a;	
 	}
 
