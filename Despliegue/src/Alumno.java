@@ -4,7 +4,7 @@ public class Alumno {
 	/**
 	 * @param args Cristo David Peralta Hernández
 	 */
-	String nombre, nombre2, apellido, cosasBonitas, cosasBonitas2;
+	String nombre, nombre2, apellido, apellido2, cosasBonitas, cosasBonitas2;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -28,7 +28,12 @@ public class Alumno {
 	
 	public void getApellido(String a) {
 		// TODO Auto-generated method stub
-		cosasBonitas = a;	
+		apellido = a;	
+	}
+	
+	public void getApellido2(String a) {
+		// TODO Auto-generated method stub
+		apellido2 = a;	
 	}
 	
 	public void getCosasBonitas(String a) {
