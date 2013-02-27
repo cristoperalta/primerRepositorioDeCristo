@@ -31,5 +31,8 @@ public class Alumno {
 		apellido = a;	
 	}
 
-
+	public void getCosasBonitas2(String a) {
+		// idea de tara
+		apellido = a;	
+	}
 }
