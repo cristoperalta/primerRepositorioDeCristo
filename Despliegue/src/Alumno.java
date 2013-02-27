@@ -27,7 +27,7 @@ public class Alumno {
 	}
 	
 	public void getApellido(String a) {
-		// TODO Auto-generated method stub
+		// Ese criiiisto TODO Auto-generated method stub
 		apellido = a;	
 	}
 
