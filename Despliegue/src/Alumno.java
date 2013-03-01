@@ -8,7 +8,7 @@ public class Alumno {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+//cabron !!
 	}
 	
 	public void getNombre(String n) {
